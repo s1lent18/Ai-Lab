@@ -35,3 +35,5 @@ AI-LAB
     <figcaption>Q6</figcaption>
   </figure>
 </p>
+
+## Lab-3
