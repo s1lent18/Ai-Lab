@@ -8,30 +8,30 @@ AI-LAB
 <p align="center">
   <figure>
     <img src="screenshots/pubg_task.png" width="250" alt="pubg_task">
-    <figcaption>Text for pubg_task</figcaption>
+    <figcaption>Pubg Task</figcaption>
   </figure>
   <figure>
     <img src="screenshots/Q1.png" width="250" alt="Q1">
-    <figcaption>Text for Q1</figcaption>
+    <figcaption>Q1</figcaption>
   </figure>
   <figure>
     <img src="screenshots/Q2.png" width="250" alt="Q2">
-    <figcaption>Text for Q2</figcaption>
+    <figcaption>Q2</figcaption>
   </figure>
   <figure>
     <img src="screenshots/Q3.png" width="250" alt="Q3">
-    <figcaption>Text for Q3</figcaption>
+    <figcaption>Q3</figcaption>
   </figure>
   <figure>
     <img src="screenshots/Q4.png" width="250" alt="Q4">
-    <figcaption>Text for Q4</figcaption>
+    <figcaption>Q4</figcaption>
   </figure>
   <figure>
     <img src="screenshots/Q5.png" width="250" alt="Q5">
-    <figcaption>Text for Q5</figcaption>
+    <figcaption>Q5</figcaption>
   </figure>
   <figure>
     <img src="screenshots/Q6.png" width="250" alt="Q6">
-    <figcaption>Text for Q6</figcaption>
+    <figcaption>Q6</figcaption>
   </figure>
 </p>
