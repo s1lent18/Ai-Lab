@@ -50,6 +50,6 @@ AI-LAB
     <img src="screenshots/Hill-Climbing.png" width="1250" alt="Hill-Climbing">
   </figure>
   <figure>
-    <img src="screenshots/generic.png" width="1250" alt="generic">
+    <img src="screenshots/Generic.png" width="1250" alt="generic">
   </figure>
 </p>
