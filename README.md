@@ -3,68 +3,45 @@
 AI-LAB
 </h1>
 
-
-
 <p align="center">
   <figure>
-    <img src="screenshots/UCS.png" width="1250" alt="pubg_task">
-    <figcaption>Pubg Task</figcaption>
+    <img src="screenshots/Reflex-Agent.png" width="1250" alt="Reflex-Agent">
+    <figcaption>Reflex-Agent</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q1.png" width="250" alt="Q1">
-    <figcaption>Q1</figcaption>
+    <img src="screenshots/Goal-Based-Agent.png" width="1250" alt="Goal-Based-Agent">
+    <figcaption>Goal-Based-Agent</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q2.png" width="250" alt="Q2">
-    <figcaption>Q2</figcaption>
+    <img src="screenshots/Model-Based-Agent.png" width="1250" alt="Model-Based-Agent">
+    <figcaption>Model-Based-Agent</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q3.png" width="250" alt="Q3">
-    <figcaption>Q3</figcaption>
+    <img src="screenshots/Utility-Based-Agent.png" width="1250" alt="Utility-Based-Agent">
+    <figcaption>Utility-Based-Agent</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q4.png" width="250" alt="Q4">
-    <figcaption>Q4</figcaption>
+    <img src="screenshots/Learning-Based-Agent.png" width="1250" alt="Learning-Based-Agent">
+    <figcaption>Learning-Based-Agent</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q5.png" width="250" alt="Q5">
-    <figcaption>Q5</figcaption>
+    <img src="screenshots/BFS.png" width="1250" alt="BFS">
+    <figcaption>BFS</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q6.png" width="250" alt="Q6">
-    <figcaption>Q6</figcaption>
-  </figure>
-</p>
-
-## Lab-3
-
-<p align="center">
-  <figure>
-    <img src="screenshots/bfs_dfs.png" width="250" alt="BFS and DFS">
-    <figcaption>DFS & BFS</figcaption>
+    <img src="screenshots/DFS.png" width="1250" alt="DFS">
+    <figcaption>DFS</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q1.png" width="250" alt="Q1">
-    <figcaption>Q1</figcaption>
+    <img src="screenshots/DLS.png" width="1250" alt="DLS">
+    <figcaption>DLS</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q2.png" width="250" alt="Q2">
-    <figcaption>Q2</figcaption>
+    <img src="screenshots/ITTDS.png" width="1250" alt="ITTDS">
+    <figcaption>ITTDS</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/Q3.png" width="250" alt="Q3">
-    <figcaption>Q3</figcaption>
-  </figure>
-  <figure>
-    <img src="screenshots/Q4.png" width="250" alt="Q4">
-    <figcaption>Q4</figcaption>
-  </figure>
-  <figure>
-    <img src="screenshots/Q5.png" width="250" alt="Q5">
-    <figcaption>Q5</figcaption>
-  </figure>
-  <figure>
-    <img src="screenshots/Q6.png" width="250" alt="Q6">
-    <figcaption>Q6</figcaption>
+    <img src="screenshots/UCS.png" width="1250" alt="UCS">
+    <figcaption>UCS</figcaption>
   </figure>
 </p>
