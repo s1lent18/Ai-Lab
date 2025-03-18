@@ -34,4 +34,16 @@ AI-LAB
   <figure>
     <img src="screenshots/UCS.png" width="1250" alt="UCS">
   </figure>
+  <figure>
+    <img src="screenshots/BestFS.png" width="1250" alt="BestFS">
+  </figure>
+  <figure>
+    <img src="screenshots/BS.png" width="1250" alt="BS">
+  </figure>
+  <figure>
+    <img src="screenshots/GBFS.png" width="1250" alt="GBFS">
+  </figure>
+  <figure>
+    <img src="screenshots/aStar.png" width="1250" alt="aStar">
+  </figure>
 </p>
