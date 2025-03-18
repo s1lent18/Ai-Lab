@@ -7,7 +7,7 @@ AI-LAB
 
 <p align="center">
   <figure>
-    <img src="screenshots/UCS.png" width="250" alt="pubg_task">
+    <img src="screenshots/UCS.png" width="1250" alt="pubg_task">
     <figcaption>Pubg Task</figcaption>
   </figure>
   <figure>
