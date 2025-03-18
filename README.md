@@ -49,4 +49,7 @@ AI-LAB
   <figure>
     <img src="screenshots/Hill-Climbing.png" width="1250" alt="Hill-Climbing">
   </figure>
+  <figure>
+    <img src="screenshots/generic.png" width="1250" alt="generic">
+  </figure>
 </p>
